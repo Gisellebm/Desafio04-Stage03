@@ -98,9 +98,7 @@ img {
   height: auto;
 }
 
-.wrapper img:nth-child(even) {
-  height: 45rem;
-}
+
 .ice-card {
   position: relative;
 }
@@ -172,3 +170,4 @@ footer a {
     transform: translateY(15px);
   }
 }
+
