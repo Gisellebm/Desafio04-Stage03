@@ -24,7 +24,6 @@
 
 body {
   width: 100vw;
-
   max-height: 144rem;
   font-size: 1.6rem;
 }
@@ -227,9 +226,9 @@ footer a {
 @media (min-width: 1180px) {
   body {
     display: grid;
-    min-height: 72rem;
+
     grid-template-columns: 37.7rem ;
-    grid-template-rows: 30vh 30vh 30vh 10vh;
+    grid-template-rows: 32vh 32vh 32vh 9.4rem;
     grid-template-areas:
       "header main"
       "header main"
@@ -288,7 +287,7 @@ footer a {
   header {
     display: flex;
     flex-direction: column;
-    height: 100vh;
+    height: 100%;
     padding-bottom: 12.5rem;
   }
 
@@ -301,6 +300,7 @@ footer a {
     line-height: 110%;
     height: 7rem;
     padding-bottom: 2.3rem;
+
   }
 
   .header-text {
