@@ -15,6 +15,8 @@ Foi utilizado no projeto:
 - Media queries;
 - Grid.
 
+[Clique aqui para acessar] (https://gisellebm.github.io/Desafio04-Stage03/)
+
 ## Tecnologias
 
 - HTML
